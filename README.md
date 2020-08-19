@@ -1,2 +1,2 @@
 # Résumé
-Checkout My Résumé[Harsh_Resume.pdf]
+Checkout My [Résumé](Harsh_Resume.pdf)
