@@ -1,2 +1,2 @@
 # Résumé
-Checkout My [Résumé](https://hrshanand.github.io/resume/Harsh_Anand_Resume.pdf)
+Checkout My [Résumé](https://0xhrsh.github.io/resume/Harsh_Anand_Resume.pdf)
